@@ -1,4 +1,4 @@
-accesstoken='161539043-pvOvE0RnNT5jQ02JDTtJTb46VCvDQB3El8ajZF4L'
-accesstokensecret='CAeWZRg99OKdTCeYivDdKtoNzBgS0QTutdaXRRYrIrTsh'
-consumerkey='DKvT5ccmi3ddyzRLbKAy5jKos'
-consumerkeysecret='BDvOScDhVAoSPjJbcuMks5LwXLsgEQVQV3EYVzSogmZJG89UTo'
+accesstoken='<access token>’
+accesstokensecret='<access token secret>’
+consumerkey='<consumer key>’
+consumerkeysecret='<consumer key secret>’
